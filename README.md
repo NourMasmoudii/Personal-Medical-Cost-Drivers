@@ -24,3 +24,6 @@ BMI: While BMI also showed a positive association with insurance charges, the ef
 ## Implications:
 
 Insurance providers can use these findings to develop more accurate pricing models and risk assessments. Public health initiatives aimed at reducing smoking rates and promoting healthy lifestyles could lead to lower healthcare costs. Policymakers might consider implementing stricter regulations on tobacco products and promoting preventive healthcare measures to address the impact of smoking and obesity on insurance costs.
+
+## Author : 
+Nour Masmoudi as part from a Research methods and Data Analysis Course 
